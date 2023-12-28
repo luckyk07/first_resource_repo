@@ -1,2 +1,2 @@
 # first_resource_repo
-My first terraform resource
+My first terraform resource. Manually changed.
